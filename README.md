@@ -37,10 +37,8 @@ This application is a full-stack web application that enables users to query cou
 
 ### Quick Start
 
-Use the provided shell script:
 ```bash
-chmod +x run.sh
-./run.sh
+make run
 ```
 
 ### Manual Start
